@@ -3,7 +3,7 @@
 # diablo-x-src
 dead client that was last updated a year ago
 
-### why
+# why
 archival purposes
 
 </div>
